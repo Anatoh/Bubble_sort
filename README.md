@@ -2,10 +2,9 @@
 
 Classic bubble sort 
 
-3 moduls:
+2 moduls:
 random
 datatime
-time
 
 1000 numbers sorted for microseconds=297004
 
