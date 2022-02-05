@@ -1,5 +1,4 @@
 from datetime import datetime
-#import time
 import random
 
 def bubble_sorted_classic(mass_numbers, index = 0):
@@ -17,4 +16,3 @@ def bubble_sorted_classic(mass_numbers, index = 0):
 
 mass_numbers = [random.randint(0,1000) for _ in range(1000)]
 sort = bubble_sorted_classic(mass_numbers)
-print(sort)
